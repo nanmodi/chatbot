@@ -1,0 +1,22 @@
+.chatbox
+{
+  margin-top:10px;
+  padding: 10px;
+
+}
+.you
+{
+  margin-top: 10px;
+  padding: 10px;
+}
+.cont
+{
+  margin: 15px;
+  padding: 10px;
+  background-color:#F7EDE2;
+  margin-left: 90px;
+}
+body{
+  margin: 0px;
+  background-color:#BBADA1;
+}
