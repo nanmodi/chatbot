@@ -1,1 +1,1 @@
-a chatbot using jacascript,html,bootstrap to enable simple conversation 
+a chatbot using javascript,html,bootstrap,css to enable simple conversation 
